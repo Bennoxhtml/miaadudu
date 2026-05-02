@@ -520,7 +520,7 @@ width: calc(100% + 88px);
   background-size: 3em;
 }
 .card:nth-child(6){
-  background-image: url(img/mixue4.jpeg);
+  background-image: url(/img/mixue4.jpeg);
   background-size: 3em;
 }
 
