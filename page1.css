@@ -5,6 +5,12 @@
   scroll-behavior: smooth;
 }
 
+
+video {
+  opacity:1;
+  display:block;
+}
+
 :root {
  
   --btn: #ffd803;
