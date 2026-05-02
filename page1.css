@@ -578,11 +578,11 @@ input:checked + .card2 {
 
 }
 
-#c1 + .card2 { background-image: url(img/mahkota3.jpg);}
-#c2 + .card2 { background-image: url(img/mixue1.jpg);}
-#c3 + .card2 { background-image: url(img/mixue5-edit.jpg);}
-#c4 + .card2 { background-image: url(img/miror2.jpg);}
-#c5 + .card2 { background-image: url(img/dimotor.jpg);}
+#c1 + .card2 { background-image: url("img/mahkota3.jpg");}
+#c2 + .card2 { background-image: url("..img/mixue1.jpg");}
+#c3 + .card2 { background-image: url("..img/mixue5-edit.jpg");}
+#c4 + .card2 { background-image: url("img/miror2.jpg");}
+#c5 + .card2 { background-image: url("img/dimotor.jpg");}
 
 /* Gallery3 Video */
 .galleryV{
