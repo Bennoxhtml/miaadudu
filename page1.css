@@ -500,27 +500,27 @@ width: calc(100% + 88px);
   border-radius: .2rem;
   text-align: center;
   align-content: center;
-  background-image: url(/img/miror-1.jpeg);
+  background-image: url(img/miror-1.jpeg);
   background-size: 3em;
 }
 .card:nth-child(2){
-  background-image: url(/img/dimotor.jpeg);
+  background-image: url(img/dimotor.jpeg);
   background-size: 3em;
 }
 .card:nth-child(3){
-  background-image: url(/img/mahkota1.jpeg);
+  background-image: url(img/mahkota1.jpeg);
   background-size: 3em;
 }
 .card:nth-child(4){
-  background-image: url(/img/mixue1.jpeg);
+  background-image: url(img/mixue1.jpeg);
   background-size: 3em;
 }
 .card:nth-child(5){
-  background-image: url(/img/miror2.jpeg);
+  background-image: url(img/miror2.jpeg);
   background-size: 3em;
 }
 .card:nth-child(6){
-  background-image: url(/img/mixue4.jpeg);
+  background-image: url(img/mixue4.jpeg);
   background-size: 3em;
 }
 
@@ -578,11 +578,11 @@ input:checked + .card2 {
 
 }
 
-#c1 + .card2 { background-image: url(/img/mahkota3.jpeg);}
-#c2 + .card2 { background-image: url(/img/mixue1.jpeg);}
-#c3 + .card2 { background-image: url(/img/mixue5-edit.jpeg);}
-#c4 + .card2 { background-image: url(/img/miror2.jpeg);}
-#c5 + .card2 { background-image: url(/img/dimotor.jpeg);}
+#c1 + .card2 { background-image: url(img/mahkota3.jpeg);}
+#c2 + .card2 { background-image: url(img/mixue1.jpeg);}
+#c3 + .card2 { background-image: url(img/mixue5-edit.jpeg);}
+#c4 + .card2 { background-image: url(img/miror2.jpeg);}
+#c5 + .card2 { background-image: url(img/dimotor.jpeg);}
 
 /* Gallery3 Video */
 .galleryV{
