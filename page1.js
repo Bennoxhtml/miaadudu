@@ -10,18 +10,18 @@ function jawab(pilihan) {
 }
 
 
-const radios = document.querySelectorAll('input[name="cardV"]');
-const videos = document.querySelectorAll('.cardV video');
+// const radios = document.querySelectorAll('input[name="cardV"]');
+// const videos = document.querySelectorAll('.cardV video');
 
-radios.forEach((radio, i) => {
-radio.addEventListener('change', () => {
-videos.forEach(v => {
-v.pause();
-v.currentTime = 0;
-});
+// radios.forEach((radio, i) => {
+// radio.addEventListener('change', () => {
+// videos.forEach(v => {
+// v.pause();
+// v.currentTime = 0;
+// });
 
-videos[i].play();
-});
-});
+// videos[i].play();
+// });
+// });
 
 
