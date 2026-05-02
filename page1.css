@@ -500,27 +500,27 @@ width: calc(100% + 88px);
   border-radius: .2rem;
   text-align: center;
   align-content: center;
-  background-image: url(img/miror-1.jpeg);
+  background-image: url(img/miror-1.jpg);
   background-size: 3em;
 }
 .card:nth-child(2){
-  background-image: url(img/dimotor.jpeg);
+  background-image: url(img/dimotor.jpg);
   background-size: 3em;
 }
 .card:nth-child(3){
-  background-image: url(img/mahkota1.jpeg);
+  background-image: url(img/mahkota1.jpg);
   background-size: 3em;
 }
 .card:nth-child(4){
-  background-image: url(img/mixue1.jpeg);
+  background-image: url(img/mixue1.jpg);
   background-size: 3em;
 }
 .card:nth-child(5){
-  background-image: url(img/miror2.jpeg);
+  background-image: url(img/miror2.jpg);
   background-size: 3em;
 }
 .card:nth-child(6){
-  background-image: url(/img/mixue4.jpeg);
+  background-image: url(/img/mixue4.jpg);
   background-size: 3em;
 }
 
